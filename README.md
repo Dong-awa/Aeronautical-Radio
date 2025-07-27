@@ -14,8 +14,8 @@ english 英文
 This is **DongShiZhang**, the author of the airborne radio module. This module is written using MCreator and remains open source. You do not need to obtain our consent to join your integration package (but you must comply with our open source agreement and keep our Github repository link)
 Of course, you can also create additional mods for this mod or create Minecraft versions that we do not support.
 
-#Development team members
--DongShiZhang
+# Development team members
+- DongShiZhang
 Yes, it's gone. You can contact your email hzz1221@yeah.net Apply to join us (why us)
 
 Have fun :)
