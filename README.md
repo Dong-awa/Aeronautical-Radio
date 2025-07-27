@@ -4,7 +4,7 @@
 当然，您也可以制作此模组的附属模组或制作我们未支持的Minecraft版本。
 
 # 开发团队成员
-- Dong室长
+- Dong室长  
 是的没了，您可以联系邮箱hzz1221@yeah.net申请加入我们（为什么是我们）
 
 玩的开心 :)
@@ -15,7 +15,7 @@ This is **DongShiZhang**, the author of the airborne radio module. This module i
 Of course, you can also create additional mods for this mod or create Minecraft versions that we do not support.
 
 # Development team members
-- DongShiZhang
+- DongShiZhang  
 Yes, it's gone. You can contact your email hzz1221@yeah.net Apply to join us (why us)
 
 Have fun :)
