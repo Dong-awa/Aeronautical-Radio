@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "aeronautical_radio:pcb"
+    },
+    "b": {
+      "item": "aeronautical_radio:radio_module"
+    },
+    "c": {
+      "item": "aeronautical_radio:circuit_board"
+    }
+  },
+  "result": {
+    "item": "aeronautical_radio:radio_components",
+    "count": 1
+  }
+}

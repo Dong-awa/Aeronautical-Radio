@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "aeronautical_radio:airborne_radio"
+    }
+  ],
+  "result": {
+    "item": "aeronautical_radio:airborne_radio_expanded",
+    "count": 1
+  }
+}

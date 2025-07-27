@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "aeronautical_radio:glass_fiber_fabric"
+    },
+    "b": {
+      "item": "aeronautical_radio:epoxy_resin"
+    }
+  },
+  "result": {
+    "item": "aeronautical_radio:pcb",
+    "count": 4
+  }
+}

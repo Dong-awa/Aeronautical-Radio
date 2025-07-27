@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "aeronautical_radio:airborne_radio_expanded"
+    }
+  },
+  "result": {
+    "item": "aeronautical_radio:airborne_radio",
+    "count": 1
+  }
+}

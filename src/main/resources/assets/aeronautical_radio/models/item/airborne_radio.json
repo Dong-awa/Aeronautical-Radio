@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "aeronautical_radio:item/airborne_radio_folded"
+  }
+}

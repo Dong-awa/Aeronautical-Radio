@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "aeronautical_radio:antenna"
+    },
+    "b": {
+      "item": "minecraft:copper_ingot"
+    },
+    "c": {
+      "item": "aeronautical_radio:radio_components"
+    },
+    "d": {
+      "item": "minecraft:iron_block"
+    },
+    "e": {
+      "item": "aeronautical_radio:circuit_board"
+    }
+  },
+  "result": {
+    "item": "aeronautical_radio:airborne_radio",
+    "count": 1
+  }
+}

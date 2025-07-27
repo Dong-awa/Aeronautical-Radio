@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:iron_bars"
+    },
+    "c": {
+      "item": "minecraft:iron_nugget"
+    },
+    "d": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "aeronautical_radio:antenna",
+    "count": 2
+  }
+}

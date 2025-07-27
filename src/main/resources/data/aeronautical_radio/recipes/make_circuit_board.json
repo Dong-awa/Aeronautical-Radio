@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "bdb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "item": "aeronautical_radio:electronic_component"
+    },
+    "c": {
+      "item": "minecraft:copper_ingot"
+    },
+    "d": {
+      "item": "aeronautical_radio:pcb"
+    }
+  },
+  "result": {
+    "item": "aeronautical_radio:circuit_board",
+    "count": 1
+  }
+}

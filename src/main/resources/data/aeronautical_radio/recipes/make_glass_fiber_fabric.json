@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:glass_pane"
+    },
+    "b": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "aeronautical_radio:glass_fiber_fabric",
+    "count": 16
+  }
+}

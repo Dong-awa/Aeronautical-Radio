@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "aeronautical_radio:block/dispatch_radio4",
+    "up": "aeronautical_radio:block/dispatch_radio4",
+    "north": "aeronautical_radio:block/dispatch_radio2",
+    "east": "aeronautical_radio:block/dispatch_radio1",
+    "south": "aeronautical_radio:block/dispatch_radio4",
+    "west": "aeronautical_radio:block/dispatch_radio3",
+    "particle": "aeronautical_radio:block/dispatch_radio4"
+  },
+  "render_type": "solid"
+}

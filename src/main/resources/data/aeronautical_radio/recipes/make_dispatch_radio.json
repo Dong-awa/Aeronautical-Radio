@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "ade",
+    "fee"
+  ],
+  "key": {
+    "a": {
+      "item": "aeronautical_radio:antenna"
+    },
+    "b": {
+      "item": "aeronautical_radio:radio_components"
+    },
+    "c": {
+      "item": "aeronautical_radio:radio_module"
+    },
+    "d": {
+      "item": "aeronautical_radio:circuit_board"
+    },
+    "e": {
+      "item": "minecraft:iron_block"
+    },
+    "f": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "aeronautical_radio:dispatch_radio",
+    "count": 1
+  }
+}

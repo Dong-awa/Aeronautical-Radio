@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "item": "minecraft:comparator"
+    },
+    "c": {
+      "item": "aeronautical_radio:electronic_component"
+    },
+    "d": {
+      "item": "minecraft:stone_slab"
+    }
+  },
+  "result": {
+    "item": "aeronautical_radio:radio_module",
+    "count": 1
+  }
+}
